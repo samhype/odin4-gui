@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=python3 /Odin4GUIFiles/odin4gui.py
+Name=Odin4GUI
+Type=Application
