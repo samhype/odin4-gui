@@ -16,3 +16,6 @@ Instructions:
 3) Run the script by running ./pre-setup.sh
 4) Finished
 5) Use Odin4 GUI
+
+   <img width="1127" height="813" alt="image" src="https://github.com/user-attachments/assets/b9f1c428-e457-4426-91e8-4727f4872399" />
+Odin4GUI on Deepin
