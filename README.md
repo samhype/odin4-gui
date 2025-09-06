@@ -1,9 +1,9 @@
 --- Odin4 GUI Frontend For Linux ---
 
-✅ Tested
-👍 Easy To Use
-🐍 Uses Python (PyQt5)
-‼️ Need to run pre-setup.sh before using the Odin4GUI Executable
+- ✅ Tested
+- 👍 Easy To Use
+- 🐍 Uses Python (PyQt5)
+- ‼️ Need to run pre-setup.sh before using the Odin4GUI Executable
 
 Disclaimers:
 - I am not held responsible for any damage caused to your devices, I tested this with my phone and it worked fine, if you are unsure about this then flash something small, such as TWRP which only affects recovery on a secondary device, or read the py file to verify.
